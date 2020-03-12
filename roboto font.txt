@@ -1,0 +1,50 @@
+@font-face {
+  font-family: "Roboto-Bold";
+  src: url("resources/libs/materialize/font/roboto/Roboto-Bold.eot?#iefix") format("embedded-opentype"), 
+  url("resources/libs/materialize/font/roboto/Roboto-Bold.woff2") format("woff2"), 
+  url("resources/libs/materialize/font/roboto/Roboto-Bold.woff") format("woff"), 
+  url("resources/libs/materialize/font/roboto/Roboto-Bold.ttf") format("truetype"), 
+  url("resources/libs/materialize/font/roboto/Roboto-Bold.svg#Roboto-Bold") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Roboto-Light";
+  src: url("resources/libs/materialize/font/roboto/Roboto-Light.eot?") format("embedded-opentype"), 
+  url("resources/libs/materialize/font/roboto/Roboto-Light.woff2") format("woff2"), 
+  url("resources/libs/materialize/font/roboto/Roboto-Light.woff") format("woff"), 
+  url("resources/libs/materialize/font/roboto/Roboto-Light.ttf") format("truetype"), 
+  url("resources/libs/materialize/font/roboto/Roboto-Light.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Roboto-Medium";
+  src: url("resources/libs/materialize/font/roboto/Roboto-Medium.eot?#iefix") format("embedded-opentype"), 
+  url("resources/libs/materialize/font/roboto/Roboto-Medium.woff2") format("woff2"), 
+  url("resources/libs/materialize/font/roboto/Roboto-Medium.woff") format("woff"), 
+  url("resources/libs/materialize/font/roboto/Roboto-Medium.ttf") format("truetype"), 
+  url("resources/libs/materialize/font/roboto/Roboto-Medium.svg#Roboto-Medium") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Roboto-Regular";
+  src: url("resources/libs/materialize/font/roboto/Roboto-Regular.eot") format("embedded-opentype"), 
+  url("resources/libs/materialize/font/roboto/Roboto-Regular.woff2") format("woff2"), 
+  url("resources/libs/materialize/font/roboto/Roboto-Regular.woff") format("woff"), 
+  url("resources/libs/materialize/font/roboto/Roboto-Regular.ttf") format("truetype"), 
+  url("resources/libs/materialize/font/roboto/Roboto-Regular.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Roboto-Thin";
+  src: url("resources/libs/materialize/font/roboto/Roboto-Thin.eot?#iefix") format("embedded-opentype"), 
+  url("resources/libs/materialize/font/roboto/Roboto-Thin.woff2") format("woff2"), 
+  url("resources/libs/materialize/font/roboto/Roboto-Thin.woff") format("woff"), 
+  url("resources/libs/materialize/font/roboto/Roboto-Thin.ttf") format("truetype"), 
+  url("resources/libs/materialize/font/roboto/Roboto-Thin.svg#Roboto-Thin") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
